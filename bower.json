@@ -2,7 +2,7 @@
   "name": "Backbone-StickyView",
   "version": "0.1.0",
   "private": true,
-  "main": "Backbone.StickyView.js",
+  "main": "StickyView.js",
   "dependencies": {
     "backbone": "*",
     "jquery": "*"
